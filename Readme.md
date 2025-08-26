@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary>🔥 Popular Programming Languages</summary>
+  <summary>🔥 Programming Languages</summary>
 
 1. Python  
 2. JavaScript  
@@ -77,3 +77,4 @@
 10. TypeScript  
 
 </details>
+

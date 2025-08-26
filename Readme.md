@@ -1,4 +1,4 @@
-# Programming-Roadmap
+# 📘 Studied Topics
 
 <details>
   <summary>💻 Fundamentals</summary>
@@ -27,10 +27,22 @@
 
 - **Firmware**
 - **Virtual Machine**
-- **Programming Languages**
-  - Compiler  
-  - Interpreter  
-  - Hybrid  
+- **Programming Languages (by execution type)**
+  - **Compiled Languages**
+    - C  
+    - C++  
+    - Rust  
+    - Go  
+  - **Interpreted Languages**
+    - Python  
+    - JavaScript  
+    - PHP  
+    - Ruby  
+  - **Hybrid (Compiled + Interpreted / JIT)**
+    - Java (JVM)  
+    - C# (.NET CLR)  
+    - Kotlin (JVM)  
+    - Dart (JIT & AOT)  
 
 </details>
 
@@ -43,14 +55,25 @@
 - CLR (Common Language Runtime)  
 - BCL (Base Class Library)  
 
+- **Languages in .NET**
+  - C#  
+  - F#  
+  - VB.NET  
+
 </details>
 
 <details>
-  <summary>🖥️ Languages in .NET</summary>
+  <summary>🔥 Popular Programming Languages</summary>
 
-- C#  
-- F#  
-- VB.NET  
+1. Python  
+2. JavaScript  
+3. Java  
+4. C#  
+5. C++  
+6. PHP  
+7. Go  
+8. Rust  
+9. Kotlin  
+10. TypeScript  
 
 </details>
-

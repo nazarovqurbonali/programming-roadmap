@@ -62,6 +62,19 @@
 
 </details>
 
+
+<details>
+  <summary>🖥️ C# Language Basics</summary>
+
+- Instructions in C#  
+- Comments  
+- Data Types  
+- Variables  
+- Literals  
+
+</details>
+
+
 <details>
   <summary>🔥 Programming Languages</summary>
 
@@ -77,5 +90,6 @@
 10. TypeScript  
 
 </details>
+
 
 
